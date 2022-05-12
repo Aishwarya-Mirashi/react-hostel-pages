@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-hostel-pages/static/css/main.1b647136.css",
+    "main.js": "/react-hostel-pages/static/js/main.28041f86.js",
+    "static/media/banner.jpg": "/react-hostel-pages/static/media/banner.dd1d7a3404316351a483.jpg",
+    "static/media/screenLoad.gif": "/react-hostel-pages/static/media/screenLoad.ebb394ff5004857650d1.gif",
+    "static/media/contact.jpg": "/react-hostel-pages/static/media/contact.7af82d26c6abd0f782a2.jpg",
+    "static/media/mess2.png": "/react-hostel-pages/static/media/mess2.08e703041905d2d67376.png",
+    "static/media/mess4.jpg": "/react-hostel-pages/static/media/mess4.60dae147553eebbb037e.jpg",
+    "static/media/mess5.jpg": "/react-hostel-pages/static/media/mess5.fe7cfce12c4479390350.jpg",
+    "static/media/sale.webp": "/react-hostel-pages/static/media/sale.bb13000c64da07ab5137.webp",
+    "static/media/agencyLogo.jpg": "/react-hostel-pages/static/media/agencyLogo.1a92268963bd290c6500.jpg",
+    "static/media/mess3.jpg": "/react-hostel-pages/static/media/mess3.40882833cfc3f83a8880.jpg",
+    "static/media/rent.jpeg": "/react-hostel-pages/static/media/rent.0a458c2405201759fdd2.jpeg",
+    "index.html": "/react-hostel-pages/index.html",
+    "main.1b647136.css.map": "/react-hostel-pages/static/css/main.1b647136.css.map",
+    "main.28041f86.js.map": "/react-hostel-pages/static/js/main.28041f86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b647136.css",
+    "static/js/main.28041f86.js"
+  ]
+}
